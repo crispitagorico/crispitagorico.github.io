@@ -11,10 +11,9 @@ I am a lecturer (assistant professor) in the [Department of Mathematics](https:/
 
 Research Interests
 ------
-I am interested in generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
+I am interested in physics-informed scientific ML via generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
 
-- Neural SDEs, diffusion models.
-- Neural operators, physics-informed machine learning.
+- Neural SDEs, neural operators, diffusion models.
 - Spiking neural networks, reservoir computing.
 - Signature kernel methods and applications to biological and financial signal processing.
 
