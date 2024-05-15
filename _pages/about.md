@@ -11,13 +11,14 @@ I am a lecturer (assistant professor) in the [Department of Mathematics](https:/
 
 Research Interests
 ------
-I am interested in physics-informed scientific ML via generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
+I am interested in generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
 
 - Neural SDEs, neural operators, diffusion models.
+- ML-based PDE solvers.
 - Spiking neural networks, reservoir computing.
-- Signature kernel methods and applications to biological and financial signal processing.
+- Signature methods for biological and financial signal processing.
 
-I am also the Imperial PI of the Innovate UK Grant [Quantum Machine Learning for Financial Data Streams](https://gtr.ukri.org/projects?ref=10073285) investigating how to perform computations of signature transforms more efficiently on quantum hardware.
+I am the Imperial PI of the Innovate UK Grant [Quantum Machine Learning for Financial Data Streams](https://gtr.ukri.org/projects?ref=10073285) investigating how to perform computations of signature transforms more efficiently on quantum hardware.
 
 Publications
 ------
