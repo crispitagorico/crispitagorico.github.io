@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer (assistant professor) in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/) at Imperial College London, faculty member of [Imperial X](https://ix.imperial.ac.uk/), and visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/). Previously, I was a [Chapman Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/chapman-fellowships/) in Mathematics and before that a PhD student in the [DataSig Team](https://datasig.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) supervised by [Prof. Terry Lyons](https://www.maths.ox.ac.uk/people/terry.lyons).
+I am a Lecturer (Assistant Professor) in the [Department of Mathematics](https://www.imperial.ac.uk/mathematics/) at Imperial College London, faculty member of [Imperial X](https://ix.imperial.ac.uk/), and visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/). Previously, I was a [Chapman Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/chapman-fellowships/) in Mathematics and before that a PhD student in the [DataSig Team](https://datasig.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) supervised by [Prof. Terry Lyons](https://www.maths.ox.ac.uk/people/terry.lyons).
 
 Research Interests
 ------
 I am interested in generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
 
-- Neural SDEs, neural operators, diffusion models.
-- ML-based PDE solvers.
+- Neural stochastic differential equations, score-based diffusion models, state-space models.
 - Spiking neural networks, reservoir computing.
-- Signature methods for biological and financial signal processing.
+- Neural operators, neural (stochastic) PDE solvers.
+- Signature kernel methods for biological and financial signal processing.
 
 I am the Imperial PI of the Innovate UK Grant [Quantum Machine Learning for Financial Data Streams](https://gtr.ukri.org/projects?ref=10073285) investigating how to perform computations of signature transforms more efficiently on quantum hardware.
 
