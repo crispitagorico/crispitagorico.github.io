@@ -13,7 +13,7 @@ Research Interests
 ------
 I am interested in generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
 
-- Neural stochastic differential equations, score-based diffusion models, state-space models.
+- Neural SDEs, score-based diffusion models, state-space models.
 - Spiking neural networks, reservoir computing.
 - Neural operators, neural (stochastic) PDE solvers.
 - Signature kernel methods for biological and financial signal processing.
