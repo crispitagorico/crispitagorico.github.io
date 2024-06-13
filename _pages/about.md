@@ -11,7 +11,7 @@ I am a Lecturer (Assistant Professor) in the [Department of Mathematics](https:/
 
 Research Interests
 ------
-I am interested in generative differential equation models and associated autodifferentiable numerics. I am also interested in machine learning techniques for biological and financial signal processing. My research has mainly focused on:
+I am interested in generative differential equation models and associated autodifferentiable numerics. My research has mainly focused on:
 
 - Neural SDEs, score-based diffusion models, state-space models.
 - Spiking neural networks, reservoir computing.
